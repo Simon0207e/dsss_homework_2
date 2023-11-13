@@ -16,11 +16,11 @@ setup(
     },
     author='Ximeng Zhang',
     author_email='zximeng0203@gmail.com',
-    description=' math quiz project',
+    description=' math quiz',
     long_description='',
     url='https://github.com/Simon0207e/dsss_homework_2.git',
     classifiers=[
-        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
