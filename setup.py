@@ -6,7 +6,6 @@ setup(
     license='MIT',
     packages=find_packages(),
     install_requires=[
-        'setuptools==68.2.2',
         'wheel==0.41.3',
     ],
     entry_points={
