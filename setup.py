@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='math-quiz',
-    version='0.1.0',
+    version='0.1.dev6+g7fd7d2f',
     license='MIT',
     packages=find_packages(),
     install_requires=[
